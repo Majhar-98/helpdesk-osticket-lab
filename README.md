@@ -1,9 +1,4 @@
 # 🎫 Help Desk Ticketing System — Home Lab Project
-
-**Built by:** Majharul Islam Towsif  
-**Date:** June 2026  
-**Status:** ✅ Fully Operational
-
 ---
 
 ## 📌 Project Overview
@@ -189,10 +184,3 @@ sudo chmod 0644 /var/www/html/osticket/upload/include/ost-config.php
 
 ---
 
-## 👨‍💻 Author
-
-**Majharul Islam Towsif**  
-M.Sc. High Integrity Systems — Frankfurt University of Applied Sciences  
-📧 majharul.bd1846@gmail.com  
-🔗 linkedin.com/in/majharul-islam-towsif  
-📍 Roßdorf (Darmstadt), Germany
